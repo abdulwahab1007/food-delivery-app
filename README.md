@@ -1,16 +1,37 @@
-# food_delivery_app
+# 🍔 Food Delivery App
 
-A new Flutter project.
+A beautifully designed and fully functional **Food Delivery App** built with Flutter.  
+This project features a **sleek, modern UI** and a **clean, professional codebase** — from user authentication to order placement, payment, and delivery receipt.
 
-## Getting Started
+## 🛠️ Key Features:
+- 🔐 **Authentication:**  
+  - Users can **register and create their own profile**  
+  - Or use the pre-configured demo credentials:
+    ```
+    Email: tihami@gmail.com  
+    Password: tihami123
+    ```
+- 🛒 **Food Ordering:** Seamless ordering experience with a robust **cart system** supporting:
+  - 🥗 Salads
+  - 🥤 Drinks
+  - 🍔 Burgers
+  - 🍟 Sides
+  - 🍰 Desserts
+- 📋 **Pages include:**
+  - Home / Food page
+  - Cart page
+  - Payment page
+  - Delivery receipt page
 
-This project is a starting point for a Flutter application.
+- 💳 **Payment:** Smooth checkout process.
 
-A few resources to get you started if this is your first Flutter project:
+- 📦 **Fully working app:** Authentication, ordering, cart management, and payment workflows are all implemented and tested.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+Screenshots showcasing the app’s UI are included in the project repository:  
+👉 **`lib/screenshots/` folder** — browse them for a quick look at the app’s sleek design.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+This project demonstrates **modern Flutter development best practices** and serves as a solid reference for scalable, responsive, cross-platform mobile app development.
+
